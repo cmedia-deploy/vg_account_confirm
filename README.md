@@ -1,2 +1,5 @@
 # vg_account_confirm
 こねくと！
+
+
+59264af6e61c57d0d9f4c11629963ee17ed3de2bd294d34b4ad5690d28a8bbc5
